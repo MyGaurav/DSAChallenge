@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42de474b-7493-46ec-81a2-f32f99b3b947" name="Changes" comment="&quot;day01 - completed&quot;">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/DSAChallenge.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAChallenge/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAChallenge/.idea/DSAChallenge.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAChallenge/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAChallenge/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAChallenge/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAChallenge/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAChallenge/src/day01/HcfAndLcm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAChallenge/src/day01/LeapYear.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAChallenge/src/day01/SumUntilX.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAChallenge/src/day02/ArmstrongNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAChallenge/src/day02/CheckPalindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAChallenge/src/day02/FibonacciSeries.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAChallenge/src/day02/UsdToRupees.class" beforeDir="false" />
-    </list>
+    <list default="true" id="42de474b-7493-46ec-81a2-f32f99b3b947" name="Changes" comment="&quot;day01 - completed&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
