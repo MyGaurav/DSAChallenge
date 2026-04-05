@@ -1,3 +1,0 @@
-echo ".idea/" >> .gitignore
-echo "out/" >> .gitignore
-echo "*.class" >> .gitignore
