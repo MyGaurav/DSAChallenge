@@ -1,7 +1,6 @@
 package src.day03;
 
 import java.util.Scanner;
-gi
 public class PrimeNumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
