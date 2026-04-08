@@ -23,11 +23,10 @@ public class CountFreq {
 
 // mistake = keep reseting count, always should get the old count then add on it
 
-//        i can also use map.getOrDefault method to return its count and if not then 0
+//        i can also use map.getOrDefault method to return its count and if not then set to 1 and if repeat get the key add on its count
 //        for (int num : arr) {
 //            map.put(num, map.getOrDefault(num, 0) + 1);
 //        }
 
     }
 }
-
