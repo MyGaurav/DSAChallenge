@@ -8,9 +8,10 @@ public class KidsWithCandies {
     public static void main(String[] args) {
         int[] nums = {2,5,1,3,4,7};
         int n=3;
-        kidsWithCandies(nums,n);
-        System.out.print(Arrays.toString(nums));
+        List<Boolean> list = kidsWithCandies(nums,n);
+        System.out.print(list);
     }
+
     public static List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
 
         List<Boolean> list = new ArrayList<>();
@@ -28,6 +29,7 @@ public class KidsWithCandies {
                 list.add(false);
             }
         }
+        return list;
     }
 }
 
