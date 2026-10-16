@@ -7,6 +7,7 @@ My personal solutions and progress for the DSA Partner Challenge. Focus: Masteri
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MyGaurav/DSAChallenge/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/MyGaurav/DSAChallenge/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,4 +16,5 @@ My personal solutions and progress for the DSA Partner Challenge. Focus: Masteri
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/MyGaurav/DSAChallenge/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/MyGaurav/DSAChallenge/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
