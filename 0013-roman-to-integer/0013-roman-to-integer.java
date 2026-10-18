@@ -10,15 +10,14 @@ class Solution {
         map.put('M',1000);
 
         int total = 0;
-        total = map.get(s.charAt(0));
-        for(int i = 1; i<s.length(); i++){
-            char c = s.charAt(i);
-            int prev = map.get(s.charAt(i-1));
-            int curr = map.get(c);
-            
-            if(prev < curr){
-                total = total + curr - 2*prev;
-            }else{
+        // total = map.get(s.charAt(0));
+        for (int i = 0; i < s.length(); i++) {
+            int curr = map.get(s.charAt(i));
+
+            if (i < s.length() - 1 &&
+                curr < map.get(s.charAt(i + 1))) {
+                total -= curr;
+            } else {
                 total += curr;
             }
         }
