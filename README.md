@@ -8,6 +8,7 @@ My personal solutions and progress for the DSA Partner Challenge. Focus: Masteri
 | ------- |
 | [0001-two-sum](https://github.com/MyGaurav/DSAChallenge/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/MyGaurav/DSAChallenge/tree/master/0066-plus-one) |
+| [0204-count-primes](https://github.com/MyGaurav/DSAChallenge/tree/master/0204-count-primes) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ My personal solutions and progress for the DSA Partner Challenge. Focus: Masteri
 | [0013-roman-to-integer](https://github.com/MyGaurav/DSAChallenge/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/MyGaurav/DSAChallenge/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/MyGaurav/DSAChallenge/tree/master/0168-excel-sheet-column-title) |
+| [0204-count-primes](https://github.com/MyGaurav/DSAChallenge/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/MyGaurav/DSAChallenge/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/MyGaurav/DSAChallenge/tree/master/0264-ugly-number-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/MyGaurav/DSAChallenge/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -46,4 +48,24 @@ My personal solutions and progress for the DSA Partner Challenge. Focus: Masteri
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/MyGaurav/DSAChallenge/tree/master/0264-ugly-number-ii) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MyGaurav/DSAChallenge/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MyGaurav/DSAChallenge/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MyGaurav/DSAChallenge/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MyGaurav/DSAChallenge/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MyGaurav/DSAChallenge/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
