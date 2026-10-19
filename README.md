@@ -13,6 +13,7 @@ My personal solutions and progress for the DSA Partner Challenge. Focus: Masteri
 | ------- |
 | [0001-two-sum](https://github.com/MyGaurav/DSAChallenge/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/MyGaurav/DSAChallenge/tree/master/0013-roman-to-integer) |
+| [0264-ugly-number-ii](https://github.com/MyGaurav/DSAChallenge/tree/master/0264-ugly-number-ii) |
 ## Math
 |  |
 | ------- |
@@ -21,6 +22,7 @@ My personal solutions and progress for the DSA Partner Challenge. Focus: Masteri
 | [0066-plus-one](https://github.com/MyGaurav/DSAChallenge/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/MyGaurav/DSAChallenge/tree/master/0168-excel-sheet-column-title) |
 | [0263-ugly-number](https://github.com/MyGaurav/DSAChallenge/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/MyGaurav/DSAChallenge/tree/master/0264-ugly-number-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/MyGaurav/DSAChallenge/tree/master/1071-greatest-common-divisor-of-strings) |
 ## String
 |  |
@@ -36,4 +38,12 @@ My personal solutions and progress for the DSA Partner Challenge. Focus: Masteri
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/MyGaurav/DSAChallenge/tree/master/1071-greatest-common-divisor-of-strings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/MyGaurav/DSAChallenge/tree/master/0264-ugly-number-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/MyGaurav/DSAChallenge/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
