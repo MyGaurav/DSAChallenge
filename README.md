@@ -26,6 +26,7 @@ My personal solutions and progress for the DSA Partner Challenge. Focus: Masteri
 | [0263-ugly-number](https://github.com/MyGaurav/DSAChallenge/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/MyGaurav/DSAChallenge/tree/master/0264-ugly-number-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/MyGaurav/DSAChallenge/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1922-count-good-numbers](https://github.com/MyGaurav/DSAChallenge/tree/master/1922-count-good-numbers) |
 ## String
 |  |
 | ------- |
@@ -68,4 +69,8 @@ My personal solutions and progress for the DSA Partner Challenge. Focus: Masteri
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/MyGaurav/DSAChallenge/tree/master/0204-count-primes) |
+## Recursion
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/MyGaurav/DSAChallenge/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
