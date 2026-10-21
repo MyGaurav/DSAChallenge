@@ -9,6 +9,7 @@ My personal solutions and progress for the DSA Partner Challenge. Focus: Masteri
 | [0001-two-sum](https://github.com/MyGaurav/DSAChallenge/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/MyGaurav/DSAChallenge/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/MyGaurav/DSAChallenge/tree/master/0204-count-primes) |
+| [0912-sort-an-array](https://github.com/MyGaurav/DSAChallenge/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ My personal solutions and progress for the DSA Partner Challenge. Focus: Masteri
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/MyGaurav/DSAChallenge/tree/master/0264-ugly-number-ii) |
+| [0912-sort-an-array](https://github.com/MyGaurav/DSAChallenge/tree/master/0912-sort-an-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -73,4 +75,28 @@ My personal solutions and progress for the DSA Partner Challenge. Focus: Masteri
 |  |
 | ------- |
 | [1922-count-good-numbers](https://github.com/MyGaurav/DSAChallenge/tree/master/1922-count-good-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/MyGaurav/DSAChallenge/tree/master/0912-sort-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/MyGaurav/DSAChallenge/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/MyGaurav/DSAChallenge/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/MyGaurav/DSAChallenge/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/MyGaurav/DSAChallenge/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/MyGaurav/DSAChallenge/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
