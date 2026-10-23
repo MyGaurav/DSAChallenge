@@ -22,6 +22,7 @@ My personal solutions and progress for the DSA Partner Challenge. Focus: Masteri
 | [0007-reverse-integer](https://github.com/MyGaurav/DSAChallenge/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/MyGaurav/DSAChallenge/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/MyGaurav/DSAChallenge/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/MyGaurav/DSAChallenge/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/MyGaurav/DSAChallenge/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/MyGaurav/DSAChallenge/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/MyGaurav/DSAChallenge/tree/master/0172-factorial-trailing-zeroes) |
@@ -34,6 +35,7 @@ My personal solutions and progress for the DSA Partner Challenge. Focus: Masteri
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MyGaurav/DSAChallenge/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/MyGaurav/DSAChallenge/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/MyGaurav/DSAChallenge/tree/master/0168-excel-sheet-column-title) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/MyGaurav/DSAChallenge/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Euclidean Algorithm
@@ -101,4 +103,8 @@ My personal solutions and progress for the DSA Partner Challenge. Focus: Masteri
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/MyGaurav/DSAChallenge/tree/master/0912-sort-an-array) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/MyGaurav/DSAChallenge/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
