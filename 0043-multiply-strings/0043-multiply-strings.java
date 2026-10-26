@@ -1,26 +1,30 @@
 class Solution {
     public String multiply(String num1, String num2) {
-        int n1 = num1.length(), n2 = num2.length();
-        int[] products = new int[n1 + n2];
-
-        for (int i = n1 - 1; i >= 0; i--) {
-            for (int j = n2 - 1; j >= 0; j--) {
-                int mul = (num1.charAt(i) - '0') * (num2.charAt(j) - '0');
-                products[i + j + 1] += mul;
-            }
+        if(num1.equals("0") || num2.equals("0")){
+            return "0";
         }
 
-        for (int k = products.length - 1; k > 0; k--) {
-            products[k - 1] += products[k] / 10;
-            products[k] %= 10;
-        }
+        int[] arr = new int[num1.length() + num2.length()];
+        for(int i = num1.length() -1; i>=0; i--){
 
-        StringBuilder result = new StringBuilder();
-        for (int digit : products) {
-            if (result.length() == 0 && digit == 0) continue;
-            result.append(digit);
-        }
+             for(int j = num2.length() -1; j>=0; j--){
+                 
+                 int ival = num1.charAt(i) -'0';
+                 int jval = num2.charAt(j) -'0';
 
-        return result.length() == 0 ? "0" : result.toString();
+                 int prod = (ival * jval) + arr[i + j + 1];
+                 arr[i + j + 1] = prod%10;
+                 arr[i + j] += prod/10;
+
+             }
+        }
+        StringBuilder s = new StringBuilder();
+        int i =0;
+        while(i<arr.length && arr[i] == 0) i++;
+        while(i<arr.length){
+            s.append(arr[i++]);
+        
+       }
+       return s.toString();
     }
 }
