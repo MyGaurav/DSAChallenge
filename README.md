@@ -9,6 +9,7 @@ My personal solutions and progress for the DSA Partner Challenge. Focus: Masteri
 | [0001-two-sum](https://github.com/MyGaurav/DSAChallenge/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/MyGaurav/DSAChallenge/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/MyGaurav/DSAChallenge/tree/master/0204-count-primes) |
+| [0611-valid-triangle-number](https://github.com/MyGaurav/DSAChallenge/tree/master/0611-valid-triangle-number) |
 | [0912-sort-an-array](https://github.com/MyGaurav/DSAChallenge/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
@@ -86,6 +87,7 @@ My personal solutions and progress for the DSA Partner Challenge. Focus: Masteri
 ## Sorting
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/MyGaurav/DSAChallenge/tree/master/0611-valid-triangle-number) |
 | [0912-sort-an-array](https://github.com/MyGaurav/DSAChallenge/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -107,4 +109,16 @@ My personal solutions and progress for the DSA Partner Challenge. Focus: Masteri
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/MyGaurav/DSAChallenge/tree/master/0043-multiply-strings) |
+## Two Pointers
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/MyGaurav/DSAChallenge/tree/master/0611-valid-triangle-number) |
+## Binary Search
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/MyGaurav/DSAChallenge/tree/master/0611-valid-triangle-number) |
+## Greedy
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/MyGaurav/DSAChallenge/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
