@@ -12,6 +12,7 @@ My personal solutions and progress for the DSA Partner Challenge. Focus: Masteri
 | [0283-move-zeroes](https://github.com/MyGaurav/DSAChallenge/tree/master/0283-move-zeroes) |
 | [0611-valid-triangle-number](https://github.com/MyGaurav/DSAChallenge/tree/master/0611-valid-triangle-number) |
 | [0912-sort-an-array](https://github.com/MyGaurav/DSAChallenge/tree/master/0912-sort-an-array) |
+| [1470-shuffle-the-array](https://github.com/MyGaurav/DSAChallenge/tree/master/1470-shuffle-the-array) |
 ## Hash Table
 |  |
 | ------- |
