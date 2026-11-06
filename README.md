@@ -10,6 +10,7 @@ My personal solutions and progress for the DSA Partner Challenge. Focus: Masteri
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MyGaurav/DSAChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/MyGaurav/DSAChallenge/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MyGaurav/DSAChallenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/MyGaurav/DSAChallenge/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/MyGaurav/DSAChallenge/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/MyGaurav/DSAChallenge/tree/master/0283-move-zeroes) |
 | [0611-valid-triangle-number](https://github.com/MyGaurav/DSAChallenge/tree/master/0611-valid-triangle-number) |
@@ -31,6 +32,7 @@ My personal solutions and progress for the DSA Partner Challenge. Focus: Masteri
 | [0066-plus-one](https://github.com/MyGaurav/DSAChallenge/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/MyGaurav/DSAChallenge/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/MyGaurav/DSAChallenge/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/MyGaurav/DSAChallenge/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/MyGaurav/DSAChallenge/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/MyGaurav/DSAChallenge/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/MyGaurav/DSAChallenge/tree/master/0264-ugly-number-ii) |
@@ -118,6 +120,7 @@ My personal solutions and progress for the DSA Partner Challenge. Focus: Masteri
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MyGaurav/DSAChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MyGaurav/DSAChallenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/MyGaurav/DSAChallenge/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/MyGaurav/DSAChallenge/tree/master/0283-move-zeroes) |
 | [0611-valid-triangle-number](https://github.com/MyGaurav/DSAChallenge/tree/master/0611-valid-triangle-number) |
 ## Binary Search
