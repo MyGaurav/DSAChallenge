@@ -9,6 +9,7 @@ My personal solutions and progress for the DSA Partner Challenge. Focus: Masteri
 | [0001-two-sum](https://github.com/MyGaurav/DSAChallenge/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MyGaurav/DSAChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/MyGaurav/DSAChallenge/tree/master/0066-plus-one) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MyGaurav/DSAChallenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0204-count-primes](https://github.com/MyGaurav/DSAChallenge/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/MyGaurav/DSAChallenge/tree/master/0283-move-zeroes) |
 | [0611-valid-triangle-number](https://github.com/MyGaurav/DSAChallenge/tree/master/0611-valid-triangle-number) |
@@ -116,6 +117,7 @@ My personal solutions and progress for the DSA Partner Challenge. Focus: Masteri
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MyGaurav/DSAChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MyGaurav/DSAChallenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/MyGaurav/DSAChallenge/tree/master/0283-move-zeroes) |
 | [0611-valid-triangle-number](https://github.com/MyGaurav/DSAChallenge/tree/master/0611-valid-triangle-number) |
 ## Binary Search
