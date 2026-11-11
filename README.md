@@ -10,6 +10,7 @@ My personal solutions and progress for the DSA Partner Challenge. Focus: Masteri
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MyGaurav/DSAChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/MyGaurav/DSAChallenge/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MyGaurav/DSAChallenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0169-majority-element](https://github.com/MyGaurav/DSAChallenge/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/MyGaurav/DSAChallenge/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/MyGaurav/DSAChallenge/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/MyGaurav/DSAChallenge/tree/master/0283-move-zeroes) |
@@ -23,6 +24,7 @@ My personal solutions and progress for the DSA Partner Challenge. Focus: Masteri
 | ------- |
 | [0001-two-sum](https://github.com/MyGaurav/DSAChallenge/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/MyGaurav/DSAChallenge/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/MyGaurav/DSAChallenge/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/MyGaurav/DSAChallenge/tree/master/0264-ugly-number-ii) |
 ## Math
 |  |
@@ -91,10 +93,12 @@ My personal solutions and progress for the DSA Partner Challenge. Focus: Masteri
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/MyGaurav/DSAChallenge/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/MyGaurav/DSAChallenge/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/MyGaurav/DSAChallenge/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/MyGaurav/DSAChallenge/tree/master/0414-third-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/MyGaurav/DSAChallenge/tree/master/0611-valid-triangle-number) |
 | [0912-sort-an-array](https://github.com/MyGaurav/DSAChallenge/tree/master/0912-sort-an-array) |
@@ -113,6 +117,7 @@ My personal solutions and progress for the DSA Partner Challenge. Focus: Masteri
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/MyGaurav/DSAChallenge/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/MyGaurav/DSAChallenge/tree/master/0912-sort-an-array) |
 ## Simulation
 |  |
@@ -134,4 +139,8 @@ My personal solutions and progress for the DSA Partner Challenge. Focus: Masteri
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/MyGaurav/DSAChallenge/tree/master/0611-valid-triangle-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MyGaurav/DSAChallenge/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
