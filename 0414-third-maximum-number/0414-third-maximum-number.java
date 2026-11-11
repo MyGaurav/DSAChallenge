@@ -13,7 +13,7 @@ class Solution {
                 third = sec;
                 sec = nums[i];
             }
-            if(nums[i]< max && nums[i] <sec && nums[i] > third){
+            if(nums[i] <sec && nums[i] > third){
                 third = nums[i];
             }
         }
