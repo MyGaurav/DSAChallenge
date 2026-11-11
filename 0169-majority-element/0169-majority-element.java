@@ -1,27 +1,18 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        Arrays.sort(nums);
-        int count = 1;
-        int max = 0; 
-        int majority = 0;
-        if(nums.length == 1){
-            return nums[0];
-        }
-        for(int i = 1; i<nums.length;i++){
-            if(nums[i-1] == nums[i]){
-                count++;
-            }else{
-                count = 1;
-            }
-            
+        Map<Integer, Integer> counts = new HashMap<>();
+        int threshold = nums.length / 2;
 
-            if(count>max){
-                max = count;
-                majority = nums[i];
-            }
+        for (int num : nums) {
+            int count = counts.getOrDefault(num, 0) + 1;
+            counts.put(num, count);
 
+            // Return as soon as we find the majority element
+            if (count > threshold) {
+                return num;
+            }
         }
-        return majority;
+
+        return -1; // Won't reach here given problem guarantee
     }
-
 }
