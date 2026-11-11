@@ -13,6 +13,7 @@ My personal solutions and progress for the DSA Partner Challenge. Focus: Masteri
 | [0189-rotate-array](https://github.com/MyGaurav/DSAChallenge/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/MyGaurav/DSAChallenge/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/MyGaurav/DSAChallenge/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/MyGaurav/DSAChallenge/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/MyGaurav/DSAChallenge/tree/master/0485-max-consecutive-ones) |
 | [0611-valid-triangle-number](https://github.com/MyGaurav/DSAChallenge/tree/master/0611-valid-triangle-number) |
 | [0912-sort-an-array](https://github.com/MyGaurav/DSAChallenge/tree/master/0912-sort-an-array) |
@@ -94,6 +95,7 @@ My personal solutions and progress for the DSA Partner Challenge. Focus: Masteri
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/MyGaurav/DSAChallenge/tree/master/0414-third-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/MyGaurav/DSAChallenge/tree/master/0611-valid-triangle-number) |
 | [0912-sort-an-array](https://github.com/MyGaurav/DSAChallenge/tree/master/0912-sort-an-array) |
 ## Merge Sort
