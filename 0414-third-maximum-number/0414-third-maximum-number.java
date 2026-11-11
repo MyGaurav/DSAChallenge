@@ -9,11 +9,11 @@ class Solution {
                 sec = max;
                 max= nums[i];
             }
-            if(nums[i]<max && nums[i]>sec){
+            else if(nums[i]<max && nums[i]>sec){
                 third = sec;
                 sec = nums[i];
             }
-            if(nums[i] <sec && nums[i] > third){
+            else if(nums[i] <sec && nums[i] > third){
                 third = nums[i];
             }
         }
