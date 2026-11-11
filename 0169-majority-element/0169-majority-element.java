@@ -1,18 +1,16 @@
 class Solution {
     public int majorityElement(int[] nums) {
         Map<Integer, Integer> counts = new HashMap<>();
-        int threshold = nums.length / 2;
+        int middle = nums.length / 2;
 
         for (int num : nums) {
             int count = counts.getOrDefault(num, 0) + 1;
             counts.put(num, count);
-
-            // Return as soon as we find the majority element
-            if (count > threshold) {
+            if (count > middle) {
                 return num;
             }
         }
 
-        return -1; // Won't reach here given problem guarantee
+        return -1;
     }
 }
