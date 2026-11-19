@@ -10,6 +10,7 @@ My personal solutions and progress for the DSA Partner Challenge. Focus: Masteri
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MyGaurav/DSAChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/MyGaurav/DSAChallenge/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MyGaurav/DSAChallenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/MyGaurav/DSAChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/MyGaurav/DSAChallenge/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/MyGaurav/DSAChallenge/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/MyGaurav/DSAChallenge/tree/master/0204-count-primes) |
@@ -62,6 +63,7 @@ My personal solutions and progress for the DSA Partner Challenge. Focus: Masteri
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/MyGaurav/DSAChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/MyGaurav/DSAChallenge/tree/master/0264-ugly-number-ii) |
 ## Heap (Priority Queue)
 |  |
